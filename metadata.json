@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse - Executive & Attendee Social Amplifier",
+  "description": "Official event spotlight and LinkedIn post generator for conference attendees and organizers with real-time preview and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
